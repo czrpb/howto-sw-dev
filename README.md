@@ -8,7 +8,20 @@ SW development basically followed this path:
 
 * Math (Transform)
 * Science (Decomposition)
-* Modeling (OO)
+* Modeling
+
+### Math
+
+The initial application of mechanical computational devices basically was a calculator.
+
+### Science
+
+Eventually computers were applied to more than "just math" problems: Applications. The _scientific method_ meant decomposing problems into smaller sub-problems. This lead to structured and modular programming.
+
+### Modeling
+
+Certainly early computer pioneers, such as Kristen Nygaard, applied modeling and simulation resulting in languages such as Simula and Smalltalk, leading to OO.
+
 
 
 ## Analytic
@@ -17,6 +30,14 @@ The main analytic methods I use are:
 
 * Critical Realism
 * General Systems Theory
+
+### Critical Realism
+
+CR has both naturalist and metaphysical philosophy.
+
+
+### General Systems Theory
+
 
 
 ## Methodology
